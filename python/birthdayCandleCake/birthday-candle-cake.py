@@ -6,7 +6,6 @@
  O valor maximo é 4, então teremos 2 velas apagadas
 '''
 
-velas = [1, 3, 3, 5, 5, 5, 5, 4, 4, 1, 3]
 maiorVela = 0
 velasApagadas = 1
 velas.sort()
