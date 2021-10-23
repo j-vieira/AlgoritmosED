@@ -1,0 +1,8 @@
+print(22//7)
+print(7//22)
+print(22%7)
+print(7%22)
+print(-4//16)
+print(16//-4)
+print(16%3)
+print(16%4)
