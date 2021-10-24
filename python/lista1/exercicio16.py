@@ -2,11 +2,9 @@ totalHoras = int(input("Coloque a quantidade de horas: "))
 totalMinutos = int(input("Coloque a quantidade de minutos: "))
 totalSegundos = int(input("Coloque a quantidade de segundos: "))
 
-print(str(totalHoras) + " horas " + str(totalMinutos) + " minutos " + str(totalSegundos) + "segundos ")
-
 horasEmSegundos = totalHoras*60*60
 minutosEmSegundos = totalMinutos*60
 
-totalSegundos = totalSegundos + horasEmSegundos + minutosEmSegundos 
+totalSegundos = totalSegundos + horasEmSegundos + minutosEmSegundos
 
-print("= " + str(totalSegundos) + " segundos")
+print(totalSegundos)
