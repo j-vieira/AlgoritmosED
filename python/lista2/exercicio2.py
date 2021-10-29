@@ -1,3 +1,5 @@
+print("Calculadora")
+
 numero1 = int(input("Coloque o primeiro numero: "))
 numero2 = int(input("Coloque o segundo numero: "))
 operacao = str(input("Coloque a operacao desejada: "))

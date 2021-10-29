@@ -1,3 +1,5 @@
+print("Numeros ordenados de forma crescente")
+
 numero1 = int(input("Coloque o primeiro numero: "))
 numero2 = int(input("Coloque o segundo numero: "))
 numero3 = int(input("Coloque o terceiro numero: "))
